@@ -1,0 +1,77 @@
+# ===== ===== ===== =====
+# us_county_gender_age_population.csv:
+# Columns: county, state, male, female, median_age, population, lat, long
+# Year:        2014-2018 (American Community Survey)
+# Link:         https://www.kaggle.com/headsortails/covid19-us-county-jhu-data-demographics
+
+# ===== ===== ===== =====
+# us_county_demo.csv:
+# Columns: 
+# Year:        2017 (American Community Survey)
+# Link:         https://www.kaggle.com/muonneutrino/us-census-demographic-data?select=acs2017_county_data.csv
+
+# ===== ===== ===== =====
+# us_county_pop.csv:
+# Columns: 
+# Year:        2010-2019
+# Link:         https://www.kaggle.com/wcliffy33/us-county-population-estimates-20102019
+
+# ===== ===== ===== =====
+# us_county_popden.csv:
+# Columns: 
+# Year:        2010-2015
+# Link:         https://www.kaggle.com/mitchjohnson2012/us-population-density-by-county
+
+# ===== ===== ===== =====
+# us_county_gdp.csv:
+# Columns: 
+# Year:        2015-2018
+# Link:         https://www.kaggle.com/lithomas1/us-socioeconomic-indicators-by-county
+
+# ===== ===== ===== =====
+# us_county_income.csv:
+# Columns: 
+# Year:        2015-2018
+# Link:         https://www.kaggle.com/lithomas1/us-socioeconomic-indicators-by-county
+
+# ===== ===== ===== =====
+# us_county_unemployment.csv:
+# Columns: 
+# Year:        
+# Link:         https://www.kaggle.com/jayrav13/unemployment-by-county-us
+
+# ===== ===== ===== =====
+# us_county_mortality.csv:
+# Columns: 
+# Year:        1980-2014
+# Link:         https://www.kaggle.com/IHME/us-countylevel-mortality
+
+# ===== ===== ===== =====
+# us_county_drought.csv:
+# Columns: 
+# Year:        
+# Link:         https://www.kaggle.com/us-drought-monitor/united-states-droughts-by-county
+
+# ===== ===== ===== =====
+# us_county_poivisits.csv:
+# Columns: 
+# Year:        
+# Link:         https://www.kaggle.com/jieyingwu/covid19-us-countylevel-summaries
+
+# ===== ===== ===== =====
+# us_county_crime.csv:
+# Columns: 
+# Year:        2016
+# Link:         https://www.kaggle.com/mikejohnsonjr/united-states-crime-rates-by-county
+
+# ===== ===== ===== =====
+# us_county_name_code.csv:
+# Columns: 
+# Year:        
+# Link:         https://www.kaggle.com/stansilas/us-state-county-name-codes
+
+# ===== ===== ===== =====
+# us_county_.csv:
+# Columns: 
+# Year:        
+# Link:         
