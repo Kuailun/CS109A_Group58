@@ -37,9 +37,16 @@ df_crime$population = NULL
 df_crime$FIPS_ST = NULL
 df_crime$FIPS_CTY = NULL
 
+"County Politics"
+df_politics = read.csv("02_Data\\02_SociaDemographics\\us_politics.csv")%>%
+  select(fips,democrat)
+
+
+
 # -------------------------------------------------------------------------
 # Merge data-- ------------------------------------------------------------
 dta = left_join(df_pop,df_minority)
 dta = left_join(dta,df_crime)
+dta = left_join(dta,df_politics)
 
 write.csv(dta,"02_Data\\02_SociaDemographics\\us_final.csv")
